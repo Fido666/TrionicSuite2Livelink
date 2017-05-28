@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t5l2csv", "t5l2csv\t5l2csv.vcxproj", "{501A6ABF-58B5-4475-AD2A-887B984D7496}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "t5l2csv", "t5l2csv.vcxproj", "{501A6ABF-58B5-4475-AD2A-887B984D7496}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
